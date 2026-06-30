@@ -1,23 +1,31 @@
 # SQL Data Engineering Practice
 
-This repository contains my SQL preparation for transitioning from Test Engineering to Data Engineering.
+## About
 
-## Topics Covered
+This repository documents my SQL learning journey while transitioning from Test Engineering to Data Engineering.
 
-- SQL Basics
-- Joins
-- Subqueries & CTEs
-- Window Functions
-- Date & String Functions
-- Data Engineering SQL Scenarios
-- Query Optimization
-- Interview Questions
-- Real World Case Studies
+## Repository Structure
+
+| Folder | Topics |
+|---------|---------|
+| 01_SQL_Basics | Basic SQL concepts |
+| 02_Joins | All join operations |
+| 03_Subqueries_and_CTEs | Subqueries and CTEs |
+| 04_Window_Functions | Analytical SQL |
+| 05_Date_and_String_Functions | Functions |
+| 06_Set_Operators | UNION, INTERSECT |
+| 07_Data_Engineering_SQL | Real DE scenarios |
+| 08_Query_Optimization | Performance tuning |
+| 09_Interview_Questions | Interview practice |
+| 10_Real_World_Case_Studies | Business problems |
 
 ## Tools Used
 
 - MySQL
+- GitHub
 
-## Goal
+## Goals
 
-To strengthen SQL skills required for Data Engineering roles.
+- Strengthen SQL fundamentals
+- Solve interview questions
+- Practice real-world Data Engineering scenarios
